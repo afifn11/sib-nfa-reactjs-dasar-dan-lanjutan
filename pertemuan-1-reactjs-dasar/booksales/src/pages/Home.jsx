@@ -29,7 +29,6 @@ function Home() {
         <div className="container">
           <h2 className="fw-bold mb-4 text-center">Koleksi Buku Pilihan</h2>
           <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
-            {/* Ganti dengan data produk bukumu */}
             <div className="col">
               <div className="card shadow-sm h-100">
                 <img src="https://images.unsplash.com/photo-1592496431122-2349e0fbc666?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80" className="card-img-top" alt="Book 1" style={{height: "300px", objectFit: "cover"}} />

@@ -1,6 +1,5 @@
 import React from 'react';
 
-// Kamu bisa membuat data tim dalam bentuk array of objects seperti ini
 const teamMembers = [
   { id: 1, name: 'Muhammad', role: 'Founder & CEO', img: 'https://i.pravatar.cc/150?img=11' },
   { id: 2, name: 'Afif', role: 'Chief Marketing Officer', img: 'https://i.pravatar.cc/150?img=12' },

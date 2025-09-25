@@ -1,6 +1,4 @@
 import { Routes, Route, Link } from 'react-router-dom';
-
-// Import semua halaman yang sudah kamu buat
 import Home from './pages/Home';
 import Book from './pages/Book';
 import Team from './pages/Team';
