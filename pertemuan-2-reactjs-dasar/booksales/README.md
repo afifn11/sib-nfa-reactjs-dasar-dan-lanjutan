@@ -1,7 +1,7 @@
 # 📝 Tugas Pertemuan 2
 
 ## 📌 Instruksi
-- Tambahkan **routing** untuk halaman **Team** dan **Contact** menggunakan **React Router**.
+- Tambahkan **routing** untuk halaman **Team**, **Book** dan **Contact** menggunakan **React Router**.
 - Rapikan routing sesuai dengan kategori elemennya (lihat dokumentasi [React Router](https://reactrouter.com/start/declarative/routing)).
 - Menambahkan styling pada navigasi akan mendapatkan nilai tambahan.
 
