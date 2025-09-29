@@ -13,6 +13,7 @@ Setiap tugas dipisahkan berdasarkan folder dan dilengkapi dengan laporan pengump
 
 ## 🚀 Daftar Tugas
 - **Tugas 01**: Membuat halaman Home, Team, dan Contact dengan Bootstrap untuk website booksales.
-- **Tugas 02**: Menambahkan routing untuk halaman Team dan Contact menggunakan React Router.  
+- **Tugas 02**: Menambahkan routing untuk halaman Team dan Contact menggunakan React Router.
+- **Tugas 03**: Menambahkan data buku, menampilkan dengan map di Home & Book, serta fitur tambah buku dengan Hooks  
 
 ---
